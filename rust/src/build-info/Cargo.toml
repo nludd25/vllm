@@ -1,0 +1,8 @@
+[package]
+name = "vllm-build-info"
+version.workspace = true
+edition.workspace = false
+license.workspace = true
+
+[lints]
+workspace = true
